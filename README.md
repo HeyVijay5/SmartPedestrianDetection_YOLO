@@ -1,3 +1,5 @@
+SmartPedestrianDetection_YOLO
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
     - [Environment](#environment)
