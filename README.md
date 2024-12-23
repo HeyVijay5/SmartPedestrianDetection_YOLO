@@ -66,9 +66,6 @@ YOLO, or You Only Look Once, is a popular computer-vision object detection algor
 
 The code initiates by configuring parameters like confidence levels, scaling percentages, and tracking thresholds. The video is processed frame by frame using the OpenCV library, with optional scaling for enhanced performance. Regions of interest (ROIs) are defined within each frame, and the code iterates through these, applying YOLO to identify individuals. Subsequently, a tracking mechanism based on object centers is employed to trace the movement of detected persons across frames. The count of individuals within each ROI is continuously updated, and the annotated frames, showcasing bounding boxes, tracking information, and ROI overlays, are compiled into an output video. The final results, including the number of persons detected and tracked in each ROI, are presented upon completion.
 
-> ### Results Visualisation <a name = 'visualisation'></a>
-
-The annotated frames with bounding boxes, tracking information, and ROI overlays are stored in an output video and saved for later review. After processing the entire video, the code prints the number of persons detected and tracked in each ROI in the Tkinter Dialog Box.
 
 > ### Result - Annotated Video <a name = 'result'> </a>
 The Annotated video with the number of persons in each ROI is shown in the video - 
