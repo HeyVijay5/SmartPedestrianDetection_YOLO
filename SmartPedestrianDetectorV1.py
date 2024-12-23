@@ -1,11 +1,3 @@
-# File: PedestrianDetectorV1.py
-# Author: Kamal Yeshodhar Shastry Gattu <KamalYeshodharShastry_Gattu@uml.edu> <kysgattu0502@gmail.com>
-# Date: November 1, 2023
-# Description: This is a tool that Detects, Tracks and Counts number of people passing across particular path(s) in a Timelapse video
-
-# Pedestrian Detection
-# !pip install -q -r requirements.txt
-
 import cv2
 from ultralytics import YOLO
 import matplotlib.pyplot as plt
