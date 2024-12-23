@@ -70,8 +70,6 @@ The code initiates by configuring parameters like confidence levels, scaling per
 
 The annotated frames with bounding boxes, tracking information, and ROI overlays are stored in an output video and saved for later review. After processing the entire video, the code prints the number of persons detected and tracked in each ROI in the Tkinter Dialog Box.
 
-<img width="1280" alt="Screenshot 2023-11-15 at 2 39 37 PM" src="https://github.com/kysgattu/Pedestrain-Detection-System/assets/42197976/4a53344a-4714-4553-bc82-a60788eb9d90">
-
 > ### Result - Annotated Video <a name = 'result'> </a>
 The Annotated video with the number of persons in each ROI is shown in the video - 
 
