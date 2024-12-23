@@ -1,11 +1,5 @@
-# Pedestrian Detection System using YOLO
-The Pedestrian Detection System using YOLO is an innovative project designed to assist the Campus Planning Department at Facilities Management at the University of Massachusetts Lowell. The primary objective of this initiative is to create a tool that leverages advanced Machine Learning Techniques, specifically utilizing the potent YOLO (You Only Look Once) Deep Learning Algorithm developed by Ultralytics. The purpose of this tool is to accurately count the number of individuals traversing specific pathways across the university campus.
-
-With a user-centric approach, we have crafted a sophisticated User Interface as an integral part of the tool. This interface enables users to effortlessly upload a video and define specific regions along the paths where pedestrian detection is required. The system seamlessly executes the process of detecting, tracking, and tallying the number of individuals traversing these designated pathways.
-
-By incorporating YOLO, renowned for its efficiency in object detection tasks, our system ensures robust and real-time detection capabilities. This translates to a more streamlined and accurate monitoring process, enhancing the overall efficiency of the Campus Planning Department in managing pedestrian flow.
-
-In summary, the Pedestrian Detection System utilizing YOLO stands as a testament to the integration of cutting-edge technology to address practical challenges. By providing a user-friendly interface and leveraging the power of YOLO, this project facilitates the precise and automated counting of pedestrians, thereby contributing to enhancing campus planning and management at the University of Massachusetts Lowell.
+# SmartPedestrianDetection_YOLO
+.
 
 
 ## Table of Contents
@@ -107,16 +101,7 @@ The Annotated video with the number of persons in each ROI is shown in the video
 
 
 ## Developers <a name='developers'></a>
-* [Kamal Yeshodhar Shastry Gattu](https://github.com/kysgattu)
-
-## Links <a name='links'></a>
-> GitHub:[G K Y SHASTRY](https://github.com/kysgattu)
-> 
-> [University of Massachusetts Lowell](https://www.uml.edu/)
-> 
-> [Facilites Information Systems - Facilities Management - UMass Lowell](https://www.uml.edu/facilities/planning-design-construction/fis.aspx)
-> 
-> Contact me:     <gkyshastry0502@gmail.com> , <kysgattu0502@gmail.com>
+* [Vijay_bharadwaj](https://github.com/HeyVijay5)
 
 ## References <a name='references'></a>
 
